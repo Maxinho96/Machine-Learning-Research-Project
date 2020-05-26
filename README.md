@@ -11,6 +11,14 @@ Technologies involved:
 
 We got the real objects and the dataset here: http://www.ycbbenchmarks.com
 
+# Dataset sample
+![Dataset](https://github.com/Maxinho96/Machine-Learning-Research-Project/blob/master/images/dataset.png)
+
+# Prediction example
+![Prediction](https://github.com/Maxinho96/Machine-Learning-Research-Project/blob/master/images/chips_can.png)
+
+We got the real objects and the dataset here: http://www.ycbbenchmarks.com
+
 # Structure
 
 ## Model built from scratch
